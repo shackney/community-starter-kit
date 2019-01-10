@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome! Here you will be able to receive live instruction about picking the best breed of dog for you.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Just follow the steps below to begin.
 
 ## Getting started
 
