@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+* Welcome!
+* Hello future pet owners!
+* Thanks for visiting our page!
